@@ -4,7 +4,10 @@ English To Marathi Language Translation Using Deep Learning
 
 ## Medium articles:-
 1) ***How to use Encoder-Decoder with LSTM for NMT on medium*** - [Check it out](https://adityashirsath.medium.com/neural-machine-translation-using-sequence-to-sequence-model-164a5905bcd7)
-2)  ***A guide to use Bidirectional-lstm(seq2seq) model with bahdanau's attention*** - [check it out](https://adityashirsath.medium.com/neural-machine-translation-using-seq2seq-model-with-attention-9faea357d70b)
+![final_enco_deco](https://user-images.githubusercontent.com/75840165/122632564-2b795600-d0f1-11eb-99e4-2baf0052099a.gif)
+
+3)  ***A guide to use Bidirectional-lstm(seq2seq) model with bahdanau's attention*** - [check it out](https://adityashirsath.medium.com/neural-machine-translation-using-seq2seq-model-with-attention-9faea357d70b)
+![BahdanauAttention](https://user-images.githubusercontent.com/75840165/122632574-49df5180-d0f1-11eb-88e9-eea9d93bfe23.png)
 
 ## My results:-
 
